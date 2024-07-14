@@ -6,7 +6,7 @@
 The Dice Game is a web-based game where two players roll a dice and the player with the higher number wins. This project demonstrates basic web development skills using HTML for structure, CSS for styling, and JavaScript for functionality.
 
 
-                             [Try Live](https://noor2560.github.io/The-Dice-Game/)
+[Try Live](https://noor2560.github.io/The-Dice-Game/)
 
 
 ### Features
@@ -23,10 +23,12 @@ The Dice Game is a web-based game where two players roll a dice and the player w
 - 
 #### Steps
 - Clone the repository:
-git clone https://github.com/noor2560/The-Dice-Game.git
+
+                     git clone https://github.com/noor2560/The-Dice-Game.git
 
 - Navigate to the project directory:
-cd The-Dice-Game
+
+                             cd The-Dice-Game
 
 #### Usage
 - Open the index.html file in your preferred web browser.
