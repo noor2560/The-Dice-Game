@@ -33,7 +33,7 @@ The Dice Game is a web-based game where two players roll a dice and the player w
 
 #### Usage
 - Open the index.html file in your preferred web browser.
-- Click on the "Roll Dice" button/ refresh the page to simulate a dice roll for both players.
+- Refresh the page to simulate a dice roll for both players.
 - View the results and see which player wins.
 
 
