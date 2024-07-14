@@ -24,11 +24,11 @@ The Dice Game is a web-based game where two players roll a dice and the player w
 #### Steps
 - Clone the repository:
 
-                     git clone https://github.com/noor2560/The-Dice-Game.git
+   git clone https://github.com/noor2560/The-Dice-Game.git
 
 - Navigate to the project directory:
 
-                             cd The-Dice-Game
+   cd The-Dice-Game
 
 #### Usage
 - Open the index.html file in your preferred web browser.
