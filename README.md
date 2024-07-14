@@ -19,16 +19,17 @@ The Dice Game is a web-based game where two players roll a dice and the player w
 
 #### Prerequisites
 - Web browser (e.g., Chrome, Firefox)
-- Code editor (e.g., VS Code, Sublime Text)
+- Code editor (e.g., VS Code)
 - 
 #### Steps
 - Clone the repository:
 
-   git clone https://github.com/noor2560/The-Dice-Game.git
+
+            git clone https://github.com/noor2560/The-Dice-Game.git
 
 - Navigate to the project directory:
 
-   cd The-Dice-Game
+            cd The-Dice-Game
 
 #### Usage
 - Open the index.html file in your preferred web browser.
